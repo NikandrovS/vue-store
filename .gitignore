@@ -1,0 +1,7 @@
+.idea
+/node_modules
+/admin_panel/node_modules
+/server/node_modules
+/showcase/node_modules
+
+/server/uploads/products/*
